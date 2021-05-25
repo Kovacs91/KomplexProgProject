@@ -1,0 +1,137 @@
+﻿pannon gyík;100000;1974;hüllők
+kis héja;250000;1954;madarak
+csíkosfejű nádiposzáta;500000;1901;madarak
+barátkeselyű;250000;1954;madarak
+kis lilik;1000000;1982;madarak
+szirti sas;500000;1954;madarak
+fekete sas;500000;1954;madarak
+parlagi sas;1000000;1954;madarak
+békászó sas;1000000;1954;madarak
+vörös gém;250000;1954;madarak
+üstökösgém;250000;1912;madarak
+keleti lápibagoly;100000;0;ízeltlábúak
+réti fülesbagoly;250000;1901;madarak
+magyar őszi-fésűsbagoly;100000;0;ízeltlábúak
+kuvik;100000;1901;madarak
+cigányréce;500000;1971;madarak
+piszedenevér;100000;1901;emlősök
+Petényi-márna;100000;1974;halak
+császármadár;500000;1954;madarak
+bölömbika;100000;1954;madarak
+vörösnyakú lúd;500000;1971;madarak
+uhu;250000;1954;madarak
+ugartyúk;250000;1901;madarak
+pusztai ölyv;100000;1954;madarak
+sziki pacsirta;250000;1971;madarak
+farkas;250000;1993;emlősök
+beregi futrinka;100000;0;ízeltlábúak
+magyar futrinka;100000;0;ízeltlábúak
+zempléni futrinka;100000;0;ízeltlábúak
+sztyeplepke;100000;0;ízeltlábúak
+mecseki őszitegzes;100000;0;ízeltlábúak
+széki lile;500000;1901;madarak
+lilebíbic;250000;1954;madarak
+fattyúszerkő;100000;1901;madarak
+fehérszárnyú szerkő;250000;1901;madarak
+kormos szerkő;250000;1901;madarak
+magyar ősziaraszoló;100000;0;ízeltlábúak
+fehér gólya;100000;1906;madarak
+fekete gólya;500000;1906;madarak
+vízirigó;250000;1904;madarak
+kígyászölyv;500000;1954;madarak
+fakó rétihéja;100000;1954;madarak
+hamvas rétihéja;250000;1954;madarak
+ezüstsávos szénalepke;100000;0;ízeltlábúak
+haragos sikló;500000;1974;hüllők
+szalakóta;500000;1901;madarak
+ritka hegyiszitakötő;100000;0;ízeltlábúak
+haris;500000;1971;madarak
+díszes csuklyásbagoly;100000;0;ízeltlábúak
+vértesi csuklyásbagoly;100000;0;ízeltlábúak
+fehérhátú fakopáncs;100000;1901;madarak
+magyar tavaszi-fésűsbagoly;100000;0;ízeltlábúak
+pusztai gyalogcincér;100000;0;ízeltlábúak
+nagy kócsag;100000;1912;madarak
+kis kócsag;250000;1912;madarak
+kerti sármány;250000;1901;madarak
+bükki hegyiaraszoló;100000;0;ízeltlábúak
+Anker-araszoló;100000;0;ízeltlábúak
+tiszai ingola;250000;1974;körszájúak
+dunai ingola;100000;1974;körszájúak
+Feldegg-sólyom;100000;1996;madarak
+kerecsensólyom;1000000;1954;madarak
+Eleonóra-sólyom;100000;1971;madarak
+fehérkarmú vércse;500000;1906;madarak
+vándorsólyom;500000;1954;madarak
+északi sólyom;100000;1996;madarak
+kék vércse;500000;1906;madarak
+nagy sárszalonka;250000;1971;madarak
+feketeszárnyú székicsér;500000;1954;madarak
+székicsér;500000;1901;madarak
+budai szakállasmoly;100000;0;ízeltlábúak
+nagy szikibagoly;100000;0;ízeltlábúak
+rétisas;1000000;1954;madarak
+héjasas;100000;1954;madarak
+törpesas;500000;1954;madarak
+gólyatöcs;250000;1954;madarak
+dunai galóca;100000;1974;halak
+dobozi pikkelyescsiga;100000;0;puhatestűek
+magyar tarsza;100000;0;ízeltlábúak
+Stys-tarsza;100000;0;ízeltlábúak
+törpegém;100000;1954;madarak
+füstös ősziaraszoló;100000;0;ízeltlábúak
+nagy goda;100000;1954;madarak
+nagy fülemüle;100000;1901;madarak
+vidra;250000;1974;emlősök
+hiúz;500000;1988;emlősök
+márványos réce;250000;1971;madarak
+gyurgyalag;100000;1954;madarak
+északi pocok;250000;1974;emlősök
+barna kánya;250000;1971;madarak
+vörös kánya;500000;1954;madarak
+hosszúszárnyú denevér;100000;1901;emlősök
+kövirigó;500000;1901;madarak
+nagyfülű denevér;100000;1901;emlősök
+tavi denevér;100000;1901;emlősök
+csonkafülű denevér;100000;1901;emlősök
+dögkeselyű;100000;1954;madarak
+nagy póling;100000;1954;madarak
+vékonycsőrű póling;1000000;1954;madarak
+óriás-koraidenevér;100000;1901;emlősök
+hóbagoly;100000;1954;madarak
+bakcsó;100000;1954;madarak
+remetebogár;100000;0;ízeltlábúak
+túzok;1000000;1971;madarak
+nagyfoltú bagoly;100000;0;ízeltlábúak
+kékcsőrű réce;500000;1954;madarak
+halászsas;250000;1954;madarak
+álolaszsáska;100000;0;ízeltlábúak
+borzas gödény;250000;1954;madarak
+rózsás gödény;250000;1954;madarak
+darázsölyv;100000;1954;madarak
+kis kárókatona;500000;1954;madarak
+csüngőaraszoló;100000;0;ízeltlábúak
+atracélcincér;100000;0;ízeltlábúak
+kanalasgém;500000;1912;madarak
+drávai tegzes;100000;0;ízeltlábúak
+fóti boglárka;100000;0;ízeltlábúak
+batla;250000;1912;madarak
+villányi télibagoly;100000;0;ízeltlábúak
+csíkos boglárka;100000;0;ízeltlábúak
+törpevízicsibe;250000;1954;madarak
+gulipán;250000;1954;madarak
+kereknyergű patkósdenevér;100000;1901;emlősök
+nagy patkósdenevér;100000;1901;emlősök
+Metelka-medvelepke;100000;0;ízeltlábúak
+csíkos szöcskeegér;250000;1974;emlősök
+nyugati földikutya;500000;1974;emlősök
+kis csér;250000;1954;madarak
+urali bagoly;100000;1954;madarak
+reznek;250000;1954;madarak
+tavi cankó;250000;1954;madarak
+piroslábú cankó;100000;1954;madarak
+gyöngybagoly;100000;1901;madarak
+lápi póc;100000;1974;halak
+parlagi vipera;1000000;1974;hüllők
+német bucó;100000;1974;halak
+magyar bucó;100000;1974;halak

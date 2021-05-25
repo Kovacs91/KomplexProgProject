@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt_MarkupCompile.cache
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt_MarkupCompile.lref
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.g.resources
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\user\Desktop\Projekt Munka\projekt\projekt\obj\Debug\projekt.pdb
