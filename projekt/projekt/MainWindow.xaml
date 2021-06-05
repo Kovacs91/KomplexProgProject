@@ -5,11 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:projekt"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Állatok" Height="450" Width="800">
     <Grid>
-        <ListBox HorizontalAlignment="Left" Name="adatok" Height="265" VerticalAlignment="Top" Width="602" Margin="108,10,0,0"/>
-        <Button Content="Beolvas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,322,0,0" Click="beolvas"/>
-        <Button Content="Kilép" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" RenderTransformOrigin="8.849,15.146" Margin="699,322,0,0" Click="kilép"/>
+        <ListBox HorizontalAlignment="Left" Name="adatok" Height="244" VerticalAlignment="Top" Width="531" Margin="172,32,0,0" RenderTransformOrigin="1.256,1.008" SelectionChanged="Adatok_SelectionChanged"/>
+        <Button Content="Beolvas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,373,0,0" Click="beolvas"/>
+        <Button Content="Kilép" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" RenderTransformOrigin="8.849,15.146" Margin="694,373,0,0" Click="kilép"/>
+        <Button Content="Hozzáad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="286,373,0,0" Click="hozzáad"/>
+        <Button Content="Módosít" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="502,373,0,0" Click="modosít"/>
+        <TextBox HorizontalAlignment="Left" Name="nev" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="32,53.951,0,0" Visibility="Hidden"/>
+        <TextBox HorizontalAlignment="Left" Name="ertek" Height="23" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Margin="192.507,53.951,0,0" Visibility="Hidden"  />
+        <TextBox HorizontalAlignment="Left" Name="védetté_tették" Height="23" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Margin="381.703,53.951,0,0" Visibility="Hidden" />
+        <TextBox HorizontalAlignment="Left" Name="eszmei_ertek" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="549.319,53.951,0,0"  Visibility="Hidden"/>
+        <Button Content="Rögzítés" Name="rögzít" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="354.155,322,0,0" Click="biztoshozzá"  Visibility="Hidden"/>
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Név" Name="label1" Margin="50,25,658,356" Visibility="Hidden"/>
+        <Label Content="Eszmei érték" Name="label2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="214,25,0,0" Visibility="Hidden"/>
+        <Label Content="Védetté vették" Name="label3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="404,28,0,0" Visibility="Hidden"/>
+        <Label Content="Faja" Name="label4" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="589,28,0,0" Visibility="Hidden"/>
+        <TextBox HorizontalAlignment="Left" Name="mód" Height="38" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" Margin="264,322,0,0" Visibility="Hidden"/>
+        <Label Content="Megadaási mód: {Név (string)} {Eszmei érték (int)} {Védetté vették (int) {Faja (string}}" Name="label5" HorizontalAlignment="Left" Visibility="Hidden" VerticalAlignment="Top" Margin="214,281,0,0" Height="36" Width="447"/>
+        <Button Content="Véglegesít" Name="végleg" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="382,373,0,0" Click="véglegesít" Visibility="Hidden"/>
+        <Button Content="Eltávolítás" Name="törlés" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="157,373,0,0" Click="eltávolít"/>
+        <ComboBox Name="combo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="129" RenderTransformOrigin="0.475,2.364" Margin="23,42,0,0" DropDownClosed="kombo">
+
+        <ComboBoxItem>hüllők</ComboBoxItem>
+        <ComboBoxItem>madarak</ComboBoxItem>
+        <ComboBoxItem>ízeltlábúak</ComboBoxItem>
+        <ComboBoxItem>emlősök</ComboBoxItem>
+        <ComboBoxItem>halak</ComboBoxItem>
+        <ComboBoxItem>körszájúak</ComboBoxItem>
+        <ComboBoxItem>puhatestűek</ComboBoxItem>
+            <ComboBoxItem IsSelected="True">Összes</ComboBoxItem>
+        </ComboBox>
 
     </Grid>
 </Window>
