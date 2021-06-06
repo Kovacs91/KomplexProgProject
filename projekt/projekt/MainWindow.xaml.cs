@@ -93,7 +93,7 @@ namespace projekt
             int c = int.Parse(védetté_tették.Text);
             string d = eszmei_ertek.Text;
             adatok.Items.Add(a + " " + b + " " + c + " " + d);
-
+            combo.Visibility = Visibility.Visible;
         }
 
         private void modosít(object sender, RoutedEventArgs e)
